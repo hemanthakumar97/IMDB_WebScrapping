@@ -305,10 +305,6 @@ print(merged_data.head())
 - Use this data for Exploratory Data Analysis
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hemanthakumar.cf/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthakumar-s-40184713b/)
