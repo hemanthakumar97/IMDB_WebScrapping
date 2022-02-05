@@ -212,8 +212,8 @@ def get_main_page_data(year):
   df.to_csv(f'./Results/{year}.csv', index=False)
   ```
 
-### Let's add `year`, `duration` and `votes` fields to `get_movie_details(url)` the function to to fetch the more details of the movie
-  ```
+### Let's add `year`, `duration` and `votes` fields to the `get_movie_details(url)` function and fetch the more details of the movie
+```
 def get_movie_data(movie_url, duration, votes, year):
   d = {}
   response = requests.get(movie_url)
@@ -303,3 +303,12 @@ print(merged_data.head())
 ## Ideas for future work
 
 - Use this data for Exploratory Data Analysis
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hemanthakumar.cf/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthakumar-s-40184713b/)
